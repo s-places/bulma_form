@@ -1,0 +1,15 @@
+.App {
+  background-color: #ddeaff;
+  padding-top: 1%;
+  padding-left: 19%;
+  padding-right: 19%;
+  padding-bottom: 1%;
+  font-size: large;
+  align-items: center;
+  align-self: center;
+  text-align: justify;
+}
+.modal-text {
+  font-size: xx-large;
+  font-weight: normal;
+}
